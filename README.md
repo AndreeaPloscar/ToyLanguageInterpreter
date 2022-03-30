@@ -4,6 +4,6 @@ This project is developed in Java using opbject oriented programming and the MVC
 
 ![alt text](https://github.com/AndreeaPloscar/ToyLanguageInterpreter/blob/main/screenshots/Screen%20Shot%202022-03-30%20at%206.55.33%20PM.png)
 
-![alt text](https://github.com/AndreeaPloscar/ToyLanguageInterpreter/blob/main/screenshots/Screen%20Shot%202022-03-30%20at%206.55.52%20PM.png)
+![alt text](https://github.com/AndreeaPloscar/ToyLanguageInterpreter/blob/main/screenshots/Screen%20Shot%202022-03-30%20at%207.13.14%20PM.png)
 
-![alt text](https://github.com/AndreeaPloscar/ToyLanguageInterpreter/blob/main/screenshots/Screen%20Shot%202022-03-30%20at%206.56.09%20PM.png)
+![alt text](https://github.com/AndreeaPloscar/ToyLanguageInterpreter/blob/main/screenshots/Screen%20Shot%202022-03-30%20at%207.13.28%20PM.png)
